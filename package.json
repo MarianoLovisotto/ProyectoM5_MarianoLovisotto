@@ -1,0 +1,26 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianoLovisotto/ProyectoM5_MarianoLovisotto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianoLovisotto/ProyectoM5_MarianoLovisotto/issues"
+  },
+  "homepage": "https://github.com/MarianoLovisotto/ProyectoM5_MarianoLovisotto#readme",
+  "dependencies": {
+    "octokit": "^5.0.5"
+  }
+}
